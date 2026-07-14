@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Student Score Prediction using Linear Regression
 
 ## 📌 Project Overview
@@ -44,3 +45,6 @@ To understand the complete Machine Learning workflow, from loading data to makin
 
 ## 👩‍💻 Author
 Thanvitha Reddy
+=======
+# Student-Score-Prediction
+>>>>>>> 5fa29a6b0349def10447215f157095df8795f36f
