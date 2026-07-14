@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Student Score Prediction using Linear Regression
 
 ## 📌 Project Overview
@@ -32,19 +32,12 @@ To understand the complete Machine Learning workflow, from loading data to makin
 - R² Score: **0.9678**
 
 ## 📷 Output
-(Add a screenshot of your graph here later.)
+![Regression Graph](graph_output.png)
 
 ## 🚀 Future Improvements
 - Try multiple regression
 - Compare with other regression algorithms
 - Deploy the model using Flask or FastAPI
 
-## 📷 Output
-
-![Regression Graph](graph_output.png)
-
 ## 👩‍💻 Author
 Thanvitha Reddy
-=======
-# Student-Score-Prediction
->>>>>>> 5fa29a6b0349def10447215f157095df8795f36f
